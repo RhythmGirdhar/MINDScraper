@@ -15,7 +15,7 @@ As given in the assignment document, I have performed the 6 tasks in the followi
 
 _pip3 install -r requirements.txt_
 
-2. I have taken 10 recent articles from [https://www.aljazeera.com/where/mozambique/](https://www.aljazeera.com/where/mozambique/) by using Beautiful Soup library to scrape the website. 
+2. I have taken the recent articles from [https://www.aljazeera.com/where/mozambique/](https://www.aljazeera.com/where/mozambique/) by using Beautiful Soup library to scrape the website. 
 
 Here are the links to the articles:
 
@@ -29,7 +29,8 @@ Here are the links to the articles:
   - &#39;[https://www.aljazeera.com/news/2021/9/24/in-mozambique-kagame-says-rwandan-troops-presence-to-continue](https://www.aljazeera.com/news/2021/9/24/in-mozambique-kagame-says-rwandan-troops-presence-to-continue)&#39;,
   - &#39;[https://www.aljazeera.com/news/2021/8/8/rwanda-mozambique-forces-recapture-port-city-from-rebels](https://www.aljazeera.com/news/2021/8/8/rwanda-mozambique-forces-recapture-port-city-from-rebels)&#39;
   - &#39;[https://www.aljazeera.com/news/2021/7/10/rwanda-deploys-1000-soldiers-to-mozambique-cabo-delgado](https://www.aljazeera.com/news/2021/7/10/rwanda-deploys-1000-soldiers-to-mozambique-cabo-delgado)&#39;
-  - &#39;[https://www.aljazeera.com/news/2021/6/23/southern-african-nations-agree-to-deploy-forces-to-mozambique](https://www.aljazeera.com/news/2021/6/23/southern-african-nations-agree-to-deploy-forces-to-mozambique)&#39;, &#39;[https://www.aljazeera.com/news/2021/6/20/infographic-world-refugee-day-journey](https://www.aljazeera.com/news/2021/6/20/infographic-world-refugee-day-journey)&#39;
+  - &#39;[https://www.aljazeera.com/news/2021/6/23/southern-african-nations-agree-to-deploy-forces-to-mozambique](https://www.aljazeera.com/news/2021/6/23/southern-african-nations-agree-to-deploy-forces-to-mozambique)&#39;, 
+  - &#39;[https://www.aljazeera.com/news/2021/6/20/infographic-world-refugee-day-journey](https://www.aljazeera.com/news/2021/6/20/infographic-world-refugee-day-journey)&#39;
   - &#39;[https://www.aljazeera.com/news/2021/6/9/dozens-of-children-mostly-girls-abducted-by-mozambique-fighters](https://www.aljazeera.com/news/2021/6/9/dozens-of-children-mostly-girls-abducted-by-mozambique-fighters)&#39;
   - &#39;[https://www.aljazeera.com/news/2021/5/14/whites-prioritised-ahead-of-black-people-in-palma-rescue-amnesty](https://www.aljazeera.com/news/2021/5/14/whites-prioritised-ahead-of-black-people-in-palma-rescue-amnesty)
 
