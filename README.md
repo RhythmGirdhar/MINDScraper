@@ -35,7 +35,7 @@ Here are the links to the articles:
 
  The data is stored in JSON format in _data.json_ file, in this format:
 
-[{&#39;title&#39; : &#39;##title###&#39;, &#39;subtitle&#39; : &#39;###subtitle###&#39;, &#39;content&#39;: &#39;###content###&#39;}, …]
+_[{&#39;title&#39; : &#39;##title###&#39;, &#39;subtitle&#39; : &#39;###subtitle###&#39;, &#39;content&#39;: &#39;###content###&#39;}, …]_
 
 3. There are different parts in the article, and I have kept the title, subtitle, and main content for sentiment analysis. For this part, I have considered content only. (There is another approach I have tried to use, that is explained later).
 
