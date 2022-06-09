@@ -44,9 +44,10 @@ Here are the links to the articles:
 4. For Sentiment Analysis of content, I used SentimentIntensityAnalyzer from nltk.sentiment. For each article, I tokenized it into sentences and ran the analyzer on it to get polarity scores (pos, neg, or neu). The content\_score is the mean of the scores from each sentence.
 
 5. Then based on the scores received for each article, they are put into different classes.
-  1. If the score is between -0.5 and +0.5, it goes to neutral.
-  2. If the score is greater than 0, it goes to positive.
-  3. If the score is less than 0, it goes to negative.
+
+- If the score is between -0.5 and +0.5, it goes to neutral.
+- If the score is greater than 0, it goes to positive.
+- If the score is less than 0, it goes to negative.
 
 Maintaining the order of the above statements. I put it all in a dataframe and use plotly to plot a pie chart of frequency of polarity scores stored in the dataframe.
 
