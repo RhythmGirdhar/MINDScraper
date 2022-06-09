@@ -15,9 +15,9 @@ As given in the assignment document, I have performed the 6 tasks in the followi
 
 _pip3 install -r requirements.txt_
 
-2. I have taken 10 recent articles from
+2. I have taken 10 recent articles from [https://www.aljazeera.com/where/mozambique/](https://www.aljazeera.com/where/mozambique/) by using Beautiful Soup library to scrape the website. 
 
-[https://www.aljazeera.com/where/mozambique/](https://www.aljazeera.com/where/mozambique/) by using Beautiful Soup library to scrape the website. Here are the links to the articles:
+Here are the links to the articles:
 
   -  [https://www.aljazeera.com/news/2022/5/23/floods-hit-south-africas-kwazulu-natal-province-again](https://www.aljazeera.com/news/2022/5/23/floods-hit-south-africas-kwazulu-natal-province-again)&#39;
   -  &#39;[https://www.aljazeera.com/news/2022/3/18/mozambique-cyclone-gombe-death-toll-rises-to-53](https://www.aljazeera.com/news/2022/3/18/mozambique-cyclone-gombe-death-toll-rises-to-53)
@@ -69,6 +69,6 @@ Along with the approach of using only the content of the article, I tried two di
 
 2. Using TextBlob of content – Instead of tokenizing, I am directly using the entire pre-processed content as a text blob and calculating the sentiment polarity for it.
 
-## Visualization:
+## Visualization: Refer the 'Summary.pdf' file or the 'minds.ipynb' file to view this. 
 
 ![](RackMultipart20220609-1-5ye0d8_html_ba65b8f1c2c025b8.png)
